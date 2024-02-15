@@ -10,3 +10,6 @@ Finalizado
 
 En el archivo PROYECTO 1 SEGMENTACIÓN.xlsx encontraremos el excel donde se realizó la limpieza de los datos, la segmentación por quartiles y la categorización de clientes. Así como tablas dinámicas y de cohortes para analizar el comportamiento de los clientes y las compras a lo largo del tiempo. 
 En el archivo PROYECTO 1.pdf se encontrará la presentación con los resultados finales así como las conclusiones y recomendaciones del proyecto. 
+
+## Dashboard en Gooogle Sheets
+![Segmentación RFM](https://github.com/yare-romero/proyecto1-segmentacion/blob/main/dashboard%20Segmentaci%C3%B3n.jpg)
